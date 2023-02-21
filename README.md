@@ -1,1 +1,4 @@
-# docker-swarm-ecr-auth
+AwsAccessKey
+AwsSecretKey
+AwsRegion
+AwsAccountId
